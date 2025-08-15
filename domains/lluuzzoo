@@ -1,0 +1,11 @@
+{
+  "description": "My Home Assistant server",
+  "subdomain": "helghast777",
+  "owner": {
+    "username": "YourGitHubUsername",
+    "email": "you@example.com"
+  },
+  "record": {
+    "CNAME": "your-cloudflare-tunnel-id.cfargotunnel.com"
+  }
+}
